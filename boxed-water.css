@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(0, 158, 244);
+}
+
+
+.background-box {
+    background-color: white;
+    border-radius: 2em;
+    margin: 2em;
+    padding: 1em;
+    width: 40em;
+    height: 20em;
+
+}
+
+
+.foreground-box {
+    
+}
+
+
+img {
+    width: 20em;
+    height: 20em;
+    border-radius: 10%;
+    float: left;
+}
+
+.boxed-water {
+    font-family: 'Nova Mono', monospace;
+    letter-spacing: 10px;
+    float: left;
+}
+
+p {
+    
+}
